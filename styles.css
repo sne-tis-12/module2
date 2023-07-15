@@ -36,5 +36,7 @@ body {
     margin: 20px;
     text-align: center;
   }
-
+  .disabled:hover {
+    cursor: not-allowed;
+  }
   
