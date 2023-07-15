@@ -5,7 +5,7 @@
 
 🔥 Give it a try and see if you can win big!
 
-## Webiste 
+## Website
 [![Screenshot-2023-07-16-014751.png](https://i.postimg.cc/ZYFj7Jgk/Screenshot-2023-07-16-014751.png)](https://postimg.cc/QVCpVZhS)
 
 
